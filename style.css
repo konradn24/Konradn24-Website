@@ -1,0 +1,112 @@
+body {
+	background-color: #404040;
+	font-family: 'Lato', sans-serif;
+}
+
+#container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo {
+	color: #fff;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+	font-weight: 900;
+}
+
+#logoImage {
+	float: left;
+	padding: 20px;
+}
+
+#logoText {
+	float: left;
+	padding: 20px;
+	margin-top: 19px;
+}
+
+#menu {
+	padding: 15px;
+	background-color: #303030;
+	margin-top: 10px;
+	color: #ccc;
+}
+
+#topbar {
+	margin-top: 20px;
+	text-align: justify;
+	background-color: #008c65;
+	padding: 30px;
+	font-size: 16px;
+	color: #fff;
+}
+
+#quotation {
+	letter-spacing: 1px;
+}
+
+#sidebar {
+	float: left;
+	width: 120px;
+	padding: 20px;
+	min-height: 600px;
+	background-color: #888;
+	margin-top: 20px;
+}
+
+#content {
+	float: left;
+	width: 740px;
+	min-height: 560px;
+	margin-top: 20px;
+	margin-left: 20px;
+	padding: 40px;
+	background-color: #bbb;
+	text-align: justify;
+}
+
+#footer {
+	text-align: center;
+	padding: 20px;
+	font-size: 18px;
+	color: #fff;
+}
+
+.option {
+	float: left;
+	padding: 10px;
+	font-size: 18px;
+	letter-spacing: 1px;
+	border-right: 2px solid #444;
+	min-width: 50px;
+}
+
+.option:hover {
+	background-color: #000;
+	color: #fff;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.social {
+	padding: 10px;
+	width: 50px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #aaa;
+}
+
+.social:hover {
+	background-color: #999;
+	cursor: pointer;
+}
+
+.bigtitle {
+	font-weight: 900;
+	font-size: 44px;
+	letter-spacing: 2px;
+}
